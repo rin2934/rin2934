@@ -8,15 +8,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=760&height=44&lines=I%20am%20student%20going%20into%20web%20and%20game%20development;This%20is%20going%20to%20be%20fun%20for%20me" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+###  About Me
 
 🔭 &nbsp;I'm currently working on **Building my website for my art**  
-🌱 &nbsp;I'm currently learning **C++**  
-👯 &nbsp;I'm looking to collaborate on **UX/UI**  
+🌱 &nbsp;I'm currently learning **C++**   
 🤔 &nbsp;I'm looking for help with **Learning game development**  
-💬 &nbsp;Ask me about **Figma, CSS and HTML**  
-😄 &nbsp;Pronouns: **She/Her**  
-⚡ &nbsp;Fun fact: **I learnt how to code from paper**
+💬 &nbsp;Ask me about **Anything you want**  
 
 ### 🛠️ Tech Stack
 
